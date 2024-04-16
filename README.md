@@ -7,6 +7,9 @@
 - Rust CLI
 - Rebuilding Rails
 
+### I'm dedicated to sharing
+- [2023 COSCUP](https://www.youtube.com/watch?v=qQiIIqdj6pg&t=4s)
+
 ### 💼 Technical Skills
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
